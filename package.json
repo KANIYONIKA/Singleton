@@ -1,0 +1,12 @@
+{
+  "author": "KANIYO KANIYONIKA",
+  "dependencies": {    },
+  "description": "Please see here https://github.com/UnityCommunity/UnitySingleton",
+  "displayName": "Singleton",
+  "keywords": [ "unity", "unity3d" ],
+  "license": "MIT",
+  "name": "com.kaniyonika.singleton",
+  "repository": "github:KANIYONIKA/Singleton",
+  "unity": "2020.3",
+  "version": "1.0.0"
+}
